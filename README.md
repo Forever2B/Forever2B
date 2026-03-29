@@ -1,5 +1,7 @@
 # 💫 About Me:
-Estudante de TI apaixonado por tecnologia
+Computer Science student<br/>
+Passionate about technology, gaming, and music<br/>
+Always learning...
 
 
 ## 🌐 Socials:
