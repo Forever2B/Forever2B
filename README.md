@@ -12,7 +12,12 @@ Estudante de TI apaixonado por tecnologia
 ![](https://nirzak-streak-stats.vercel.app/?user=Forever2B&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Forever2B&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Forever2B&icon=2&color=0)](https://visitcount.itsvg.in)
+## 🏅 Badges:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://www.credly.com/users/brunob">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150"/>
+  </a>
+</p>
+
+---
